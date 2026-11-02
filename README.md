@@ -38,6 +38,7 @@ The primary objectives of this project were to:
 ## 4. Data Preparation and Cleaning – Microsoft Excel
 
 The first stage of the project involved preparing the raw financial transaction dataset using Microsoft Excel.
+![image alt](https://github.com/Horpeyhemi/Financial-Analysis-/blob/72fae1adca78e6883e047b14567fa2c84f4aa6a5/MESSY%20DATA%20.png)
 
 Data cleaning was necessary to improve data quality and ensure that the information was properly structured before analysis.
 
