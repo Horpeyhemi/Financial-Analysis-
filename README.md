@@ -227,6 +227,8 @@ To make the dashboard more interactive and user-friendly, I incorporated several
 
 **Search Buttons:** Allows users to ask financial related questions. 
 
+**Page Navigator:** Allows users too navigate through pages easily. 
+
 These interactive features make it possible to explore the financial data from different perspectives without changing the underlying dataset.
 
 ## 8. Key Financial Observations
@@ -321,7 +323,7 @@ Beyond building a dashboard, the project strengthened my ability to approach bus
 
 **Calculation Language:** DAX
 
-**Dashboard Features:** Interactive Slicers, KPI Cards, Dark Mode, Light Mode, and Navigation Controls
+**Dashboard Features:** Interactive Slicers, KPI Cards, Dark Mode, Light Mode, search button and Navigation Controls
 
 **Author:** Rahman Azeezat Taiwo
 
