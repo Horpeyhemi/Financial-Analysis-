@@ -50,7 +50,7 @@ The preparation process focused on:
 - Preparing date and financial fields for analysis.
 - Ensuring that the dataset was structured for effective analysis in Power BI.
 
-![image alt](https://github.com/Horpeyhemi/Financial-Analysis-/blob/a4d37b6abcd79690673591b49bffd2cc3597e530/messy%20cleaned%20financial.pbix)
+![image alt](https://github.com/Horpeyhemi/Financial-Analysis-/blob/f7ccd0eaf3d7e58ef659d113ea327be9eaa25b36/Cleaned%20Data.png)
 
 After preparing the dataset, I imported it into Power BI for further analysis and visualization.
 
