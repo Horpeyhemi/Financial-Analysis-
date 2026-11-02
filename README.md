@@ -326,3 +326,5 @@ Beyond building a dashboard, the project strengthened my ability to approach bus
 **Author:** Rahman Azeezat Taiwo
 
 **Area of Interest:** Data Analytics | Business Intelligence | Financial Analysis
+
+## Explore the interactive Financial Transaction Analysis Dashborad published on mcrosoft powerbi service (Powerbi service Link: https://app.powerbi.com/view?r=eyJrIjoiNTVlNGZhMDctOGE2MC00MDcyLWJkY2QtYjVmNmIwYTdmZmQwIiwidCI6IjQ4NTkyZTczLTE2OTUtNGVmMy1hYzg3LWM0ZDNjMGVhNDYzMyJ9) 
