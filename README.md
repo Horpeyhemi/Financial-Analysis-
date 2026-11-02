@@ -225,6 +225,8 @@ To make the dashboard more interactive and user-friendly, I incorporated several
 
 **Navigation Buttons:** Allows users to navigate between the landing page and the financial overview page.
 
+**Search Buttons:** Allowa users to ask financial related questions. 
+
 These interactive features make it possible to explore the financial data from different perspectives without changing the underlying dataset.
 
 ## 8. Key Financial Observations
