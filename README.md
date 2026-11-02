@@ -94,7 +94,7 @@ These calculations made it possible to evaluate financial performance beyond the
 
 ## 6. Dashboard Design and Analysis
 ![image alt](https://github.com/Horpeyhemi/Financial-Analysis-/blob/175a529b3809f73f4267a3357866564547efd7ab/My%20new%20Dashboard%20light.png)
-![image alt](https://github.com/Horpeyhemi/Financial-Analysis-/blob/10ce46fe55d7ceb23927551e86310548916a3884/Financial%20Dark%20.png)
+![image alt](https://github.com/Horpeyhemi/Financial-Analysis-/blob/b0249e4055e8062bc0543ba12d9185809323a321/FINANCIAL%20LIGHT%20.png)
 
 This dashboard was designed to provide a comprehensive overview of financial performance through five KPI cards and four major visualizations.
 
