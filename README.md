@@ -93,6 +93,7 @@ Uses `PREVIOUSMONTH()` to evaluate changes in financial performance compared wit
 These calculations made it possible to evaluate financial performance beyond the current figures and understand how key metrics change over time.
 
 ## 6. Dashboard Design and Analysis
+![image alt](https://github.com/Horpeyhemi/Financial-Analysis-/blob/175a529b3809f73f4267a3357866564547efd7ab/My%20new%20Dashboard%20light.png)
 
 The dashboard was designed to provide a comprehensive overview of financial performance through five KPI cards and four major visualizations.
 
